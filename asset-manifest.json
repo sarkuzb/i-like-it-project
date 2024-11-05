@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/i-like-it-project/static/css/main.6f14175b.css",
+    "main.js": "/i-like-it-project/static/js/main.222cae82.js",
+    "static/js/453.c099250d.chunk.js": "/i-like-it-project/static/js/453.c099250d.chunk.js",
+    "index.html": "/i-like-it-project/index.html",
+    "main.6f14175b.css.map": "/i-like-it-project/static/css/main.6f14175b.css.map",
+    "main.222cae82.js.map": "/i-like-it-project/static/js/main.222cae82.js.map",
+    "453.c099250d.chunk.js.map": "/i-like-it-project/static/js/453.c099250d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f14175b.css",
+    "static/js/main.222cae82.js"
+  ]
+}
